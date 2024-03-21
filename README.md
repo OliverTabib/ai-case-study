@@ -31,16 +31,19 @@ of Khan Academy.
 
 * Prior to this innovation, I personally think that khan academy (sans AI) was and is one of the biggest marvels in education in the past 20 years. This is why I chose this as my case study, because I loved the previous product for a very long time. The education system (in the USA) has not changed or innovated much in the last 10 years, but since the dawn of AI chatbots such as GPT, the education system has been forced to change within recent years. In my opinion, AI tutor bots such as Khanmigo are the biggest revoltion in education in the last 20 years and I am extremely excited to see what is next for this field, as I think education is extremely outdated and borderline useless with the current system of colleges, (especially given the financial respobsibility to these "institutions"). This form of education will soon be extremely accessable (free) and will allow humanity to prosper and learn in ways that we have never before, and will also grow the outreach of persons who can take advantage of education, since currently people who are less fortunate financially usually do not have access to great education. AI tools like this will bridge the financial gap in education quality, and hopefully fix our completely rigged system. 
 
-* What are the other major companies in this field?
-There do not seem to be many major players in this field, it is comprised of mostly smaller startups who are, similarly, building AI tutor chatbots on top of the GPT model. I believe this is because of big universities not wanting to be put out of buisiness by AI education, although I think it is inevidable. 
+* There do not seem to be many major players in this field, it is comprised of mostly smaller startups who are, similarly, building AI tutor chatbots on top of the GPT model. I believe this is because of big universities not wanting to be put out of buisiness by AI education, although I think it is inevidable. Currently the world fears technology like this that they do not understand.
 ## Results
 
-* What has been the business impact of this company so far?
+* Buisiness Impact:
 In all AI fields, including EdTech, there is a trend of worrying about the loss of jobs to the masses. When speaking about Khanmigo, Forbes has this say:
 
->"Will teachers become obsolete? The use of AI raises an important question: could AI-powered tools like Khanmigo make human teachers obsolete? Khan Academy firmly believes that tools like Khanmigo can alleviate some of the non-teaching tasks that currently consume up to 50% of a teacher's time. This could potentially reduce teacher workload, improve teacher retention, and free up more time for one-on-one student interaction – which will improve student outcomes and learning."
-    [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
+>"Will teachers become obsolete? The use of AI raises an important question: could AI-powered tools like Khanmigo make human teachers obsolete? Khan Academy firmly believes that tools like Khanmigo can alleviate some of the non-teaching tasks that currently consume up to 50% of a teacher's time. This could potentially reduce teacher workload, improve teacher retention, and free up more time for one-on-one student interaction – which will improve student outcomes and learning." [^1]
+
+On the subject of Generative AI within the EdTech space:
+>"The advent of generative AI has ushered in a new era, enabling the creation of innovative tools like Khanmigo, which now have the potential to significantly assist educators within the established educational structure. However, to truly nurture the essential human skills required for an era dominated by AI, educational technology pioneers should prioritize the direct use of AI in teaching these skills. Regrettably, this transformation will remain unrealized until governments mandate schools and universities to assess human skills directly." [^1]
+    [^1]: [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
     
+
 
 This is a very new era of EdTech, and these generative AI systems are not perfected for mass use. 
 
