@@ -50,17 +50,23 @@ There do not seem to be many major players in this field, it is comprised of mos
 ## Results
 
 * What has been the business impact of this company so far?
+In all AI fields, including EdTech, there is a trend of worrying about the loss of jobs to the masses. When speaking about Khanmigo, Forbes has this say:
+
+>"Will teachers become obsolete? The use of AI raises an important question: could AI-powered tools like Khanmigo make human teachers obsolete? Khan Academy firmly believes that tools like Khanmigo can alleviate some of the non-teaching tasks that currently consume up to 50% of a teacher's time. This could potentially reduce teacher workload, improve teacher retention, and free up more time for one-on-one student interaction – which will improve student outcomes and learning."
+    [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
+    
+
+This is a very new era of EdTech, and these generative AI systems are not perfected for mass use. 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
+Core metrics for EdTech success: User Engagement, Learning outcomes (higher test scores, improved skills, improved grades/educational acheivement), User Growth, Revenue growth, Customer satisfaction, platform scalability, innovation and adaptability. Khanmigo is performing well amoungst these categories, although it is still too early to tell whether it will be a disrupter in the market. 
 * How is your company performing relative to competitors in the same field?
-
+Khanmigo is one of the biggest names in EdTech companies that have a generative AI tutor. Other competitors are not house hold names but include: Riid, Cognii, Elsa and memrise. All of which are aiming to bridge the gap between generative AI and human tutors. Khanmigo is currently leading the industry due to their vast database of video tutorials created by Sal Khan and collaborations with the leading generative AI company OpenAI, to integrate GPT 4 into their system. 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+A video marketing campaign that shows off the impactful features of the generative AI tutor would be very beneficial. As it will show students around the world how they can use this incredible tool to improve their skills, grades, etc. These AI systems are very daunting to many teachers and students alike, due to being correlated with cheating tactics, but I think a video compaign will explain how beneficial this tool can be to everyone in the Education field.
 
 * Why do you think that offering this product or service would benefit the company?
+Although Google gemini is receiving backlash currently for its undeniably **weird** progressivism, their video that unvailed the product (Google Gemini Demo: https://www.youtube.com/watch?v=UIZAiXYceBI) made me extremely excited for their technology. I think that if Khanmigo made a similar style video that explain their capabilities to students, teachers and the like, would make the masses more open to trying a undeniably daunting technology. The education field (non- EdTech) has not changed much over the course of the last 100 years, the field itself is afraid of change and videos like this will help to alleviate the fear of AI within the education field. 
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
