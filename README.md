@@ -14,6 +14,8 @@ of Khan Academy.
 
 * Khan Academy is a nonprofit organization; its funding primarily consists of donations from philanthropic organizations.
 
+* [Explanation of Khanmigo](https://www.youtube.com/watch?v=yEgHrxvLsz0)
+
 ## Business Activities
 
 * Khanmigo, which is the AI subsection of khan academy was created to provide an AI chatbot tutor for students around the world. Everyone has used the khan academy tutoring videos, and the large database of information that those videos provide is now being fed into their chatbot, allowing for easier access to the information that the student requires. 
@@ -24,6 +26,9 @@ of Khan Academy.
 * In comparison to using the standard chatGPT 3 or 4 for tutoring, the khanmigo chatbot is much more informative, as it is trained on an extremely impressive database of knowledge from the normal khan academy videos that we all know and love. Khanmigo is built on the GPT model, so its ability to converse with the user is just as good as GPT standard, but it is a hyper specific model that teaches the user concepts in ways that the standard GPT model can not. 
 
 * Khanmigo is built on the GPT-4 model and also uses the Khan Academy learning database. 
+
+* Harvard Buisiness School Case Study Excerpt Regarding Khanmigo:
+> "In addition to simulating historical and fictional characters, Khanmigo assisted students with learning math, debugging code, writing, and completing other learning exercises. Khanmigo was also designed to help teachers develop lesson plans and quizzes, brainstorm creative teaching approaches, and evaluate students’ progress, among other tasks. As the Founder and CEO of Khan Academy, Sal Khan felt that Khanmigo might just be “that holy grail we’ve all been reading about in science fiction for years, about an artificial intelligence that could emulate a human tutor.” [HBS.edu](https://www.hbs.edu/faculty/Pages/item.aspx?num=64929)
 
 ## Landscape
 
@@ -43,7 +48,7 @@ On the subject of Generative AI within the EdTech space:
 >"The advent of generative AI has ushered in a new era, enabling the creation of innovative tools like Khanmigo, which now have the potential to significantly assist educators within the established educational structure. However, to truly nurture the essential human skills required for an era dominated by AI, educational technology pioneers should prioritize the direct use of AI in teaching these skills. Regrettably, this transformation will remain unrealized until governments mandate schools and universities to assess human skills directly." <sub>2</sub>
 
 
-/n <sub>1,2:</sub> [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
+<sub>1,2:</sub> [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
     
 
 
@@ -55,9 +60,7 @@ Core metrics for EdTech success: User Engagement, Learning outcomes (higher test
 Khanmigo is one of the biggest names in EdTech companies that have a generative AI tutor. Other competitors are not house hold names but include: Riid, Cognii, Elsa and memrise. All of which are aiming to bridge the gap between generative AI and human tutors. Khanmigo is currently leading the industry due to their vast database of video tutorials created by Sal Khan and collaborations with the leading generative AI company OpenAI, to integrate GPT 4 into their system. 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-A video marketing campaign that shows off the impactful features of the generative AI tutor would be very beneficial. As it will show students around the world how they can use this incredible tool to improve their skills, grades, etc. These AI systems are very daunting to many teachers and students alike, due to being correlated with cheating tactics, but I think a video compaign will explain how beneficial this tool can be to everyone in the Education field.
+* A video marketing campaign that shows off the impactful features of the generative AI tutor would be very beneficial. As it will show students around the world how they can use this incredible tool to improve their skills, grades, etc. These AI systems are very daunting to many teachers and students alike, due to being correlated with cheating tactics, but I think a video compaign will explain how beneficial this tool can be to everyone in the Education field.
 
-* Why do you think that offering this product or service would benefit the company?
-Although Google gemini is receiving backlash currently for its undeniably ***weird*** progressivism, their video that unvailed the product ([Google Gemini Demo](https://www.youtube.com/watch?v=UIZAiXYceBI)) made me extremely excited for their technology. I think that if Khanmigo made a similar style video that explain their capabilities to students, teachers and the like, would make the masses more open to trying a undeniably daunting technology. The education field (non- EdTech) has not changed much over the course of the last 100 years, the field itself is afraid of change and videos like this will help to alleviate the fear of AI within the education field. 
+* Although Google gemini is receiving backlash currently for its undeniably ***weird*** progressivism, their video that unvailed the product ([Google Gemini Demo](https://www.youtube.com/watch?v=UIZAiXYceBI)) made me extremely excited for their technology. I think that if Khanmigo made a similar style video that explain their capabilities to students, teachers and the like, would make the masses more open to trying a undeniably daunting technology. The education field (non- EdTech) has not changed much over the course of the last 100 years, the field itself is afraid of change and videos like this will help to alleviate the fear of AI within the education field. 
 
