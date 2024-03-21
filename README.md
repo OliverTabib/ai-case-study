@@ -41,7 +41,9 @@ In all AI fields, including EdTech, there is a trend of worrying about the loss 
 
 On the subject of Generative AI within the EdTech space:
 >"The advent of generative AI has ushered in a new era, enabling the creation of innovative tools like Khanmigo, which now have the potential to significantly assist educators within the established educational structure. However, to truly nurture the essential human skills required for an era dominated by AI, educational technology pioneers should prioritize the direct use of AI in teaching these skills. Regrettably, this transformation will remain unrealized until governments mandate schools and universities to assess human skills directly." <sub>2</sub>
-    1,2: [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
+
+
+/n <sub>1,2:</sub> [Forbes Article](https://www.forbes.com/sites/charlestowersclark/2023/10/23/khan-academy-an-ai-revolution-in-education-or-threat-to-human-skills/?sh=5514dfa52cf3 )
     
 
 
